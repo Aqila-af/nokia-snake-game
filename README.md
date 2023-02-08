@@ -1,4 +1,5 @@
-# title(){return this.options.title||this.options.name}
+# nokia-snake-game
+
 
 Quick start:
 
